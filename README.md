@@ -5,3 +5,5 @@ Contenido:
 
 - Introducción a R
 - Objetos de r
+- Funciones
+- Bases de datos
